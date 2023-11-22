@@ -30,10 +30,9 @@ Abre una terminal y navega a la ubicación donde instalaste OpenSSL. Luego, ejec
 
 2. Abre el archivo de configuración de Apache (`httpd.conf`).
 
-3. Busca las líneas que contienen configuraciones de SSL y modifica o agrega las siguientes líneas:
+3. Busca las líneas en el archivo (`httpd.conf`). Que contienen configuraciones de SSL y modifica o agrega las siguientes líneas:
 
-![image](https://github.com/jooseeruu/Crear-y-configurar-certificado-SSL-en-Apache-Windows-Server/assets/120745808/af9f1805-e647-4fd1-a4f7-8a7eb2dd31d5)
-
+![image](https://github.com/jooseeruu/Crear-y-configurar-certificado-SSL-en-Apache-Windows-Server/assets/120745808/cdf640f5-b8f7-4678-b5af-b4f52c6e01ed)
 
 4. Guarda los cambios y reinicia el servicio de Apache para aplicar la configuración.
 
